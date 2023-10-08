@@ -36,9 +36,6 @@ Here are some ideas to get you started:
   <a href="mailto:parthdobariya62@gmail.com">
     <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
   </a><span>&nbsp;</span>
-  <a href="https://github.com/pdobariya1">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
 </p>
 
 
