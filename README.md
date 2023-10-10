@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Parth Dobariya</h1>
 <h3>I'm a dedicated and passionate Data Analysts & Data Scientist from Surat, India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pdobariya1&label=Profile%20views&color=0e75b6&style=flat" alt="pdobariya1" /> </p>
+
 
 <h1>Github Stats:</h1>
 <p align="center">
