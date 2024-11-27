@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1>Hi 👋, I'm Parth Dobariya</h1>
-<h3>I'm a dedicated and passionate Data Analysts & Data Scientist from Surat, India</h3>
+<h3>I'm a dedicated and passionate Data Scientist & ML Engineer from Surat, India</h3>
 
 
 <h1>Github Stats:</h1>
